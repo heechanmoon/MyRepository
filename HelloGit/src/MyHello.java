@@ -4,5 +4,6 @@ public class MyHello {
 		System.out.println("Hello Git!");
 		System.out.println("It's second file.");
 		System.out.println("SKU");
+		System.out.println("v2.0");
 	}
 }
